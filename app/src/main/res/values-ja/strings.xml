@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">私のアプリ</string>
+    <string name="text_inicial">これは日本語の初期テキストです</string>
+</resources>
